@@ -224,7 +224,7 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Users\tiberna\source\repos\EasyAuthRolesAuth\EasyAuthRolesAuth\EasyAuthRolesAuth.csproj">
+    <ProjectReference Include="..\EasyAuthRolesAuth\EasyAuthRolesAuth.csproj">
       <Project>{66d51202-ff5b-4cc7-b556-c47188aad380}</Project>
       <Name>EasyAuthRolesAuth</Name>
     </ProjectReference>
